@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BandLink</string>
+    <string name="ITunes">ITunes</string>
+    <string name="Apple_Music">Apple Music</string>
+    <string name="VK">VK</string>
+    <string name="BOOM">BOOM</string>
+    <string name="YouTube_Music">YouTube_Music</string>
+    <string name="Deezer">Deezer</string>
+    <string name="TikTok">TikTok</string>
+    <string name="OK">OK</string>
+    <string name="Yandex_Music">Yandex_Music</string>
+    <string name="release">Релиз</string>
+    <string name="news">Новости</string>
+    <string name="list">Послушать</string>
+
+
+</resources>
